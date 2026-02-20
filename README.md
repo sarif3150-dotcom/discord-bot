@@ -1,2 +1,1 @@
-# discord-bot
-My Discord bot
+discord-bot/index.js
